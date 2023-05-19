@@ -5,7 +5,8 @@
         "x-providerName": "OpenAI",
         "description": "APIs for sampling from and fine-tuning language models",
         "version": "1.2.0",
-        "x-schemaVersion": "1.0.0"
+        "x-schemaVersion": "1.0.0",
+        "x-supportContact": "support@zinklar.com"
     },
     "security": [
         {
