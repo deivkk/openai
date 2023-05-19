@@ -10,13 +10,6 @@
             "apiKey": []
         }
     ],
-    "securitySchemes": {
-        "apiKey": {
-            "type": "apiKey",
-            "name": "X-API-Key",
-            "in": "header"
-        }
-    },
     "servers": [
         {
             "url": "https://api.openai.com/v1"
@@ -3188,6 +3181,13 @@
                     "level",
                     "message"
                 ]
+            }
+        },
+        "securitySchemes": {
+            "apiKey": {
+                "type": "apiKey",
+                "name": "X-API-Key",
+                "in": "header"
             }
         }
     },
