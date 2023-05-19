@@ -3,7 +3,7 @@
     "info": {
         "title": "OpenAI API",
         "x-providerName": "OpenAI",
-        "description": "APIs for sampling from and fine-tuning language models",
+        "description": "APIs for sampling from and fine-tuning language models. Marketo",
         "version": "1.2.0"
     },
     "security": [
